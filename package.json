@@ -1,0 +1,29 @@
+{
+  "name": "tsjtalk11",
+  "version": "11.2.0",
+  "description": "A real-time chatting platform built by Debarchito Nath for his friends and family",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MODERHACKS/TSJTalk.git"
+  },
+  "keywords": [
+    "tsjtalk",
+    "express",
+    "body-parser"
+  ],
+  "author": "Debarchito Nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MODERHACKS/TSJTalk/issues"
+  },
+  "homepage": "https://github.com/MODERHACKS/TSJTalk#readme"
+}

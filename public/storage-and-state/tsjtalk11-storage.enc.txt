@@ -1,0 +1,10 @@
+<div class="tsj-conatiner select-off" style="background: #1370DE; padding: 1px 15px 1px 15px; margin: 5px; border-radius: 10px; color: white; font-size: 0.85em"><p class="font-U tsj-justify">TSJTalk 11 is the 11th genration of TSJTalk Discussion Platform. It's different than the previous versions of TSJTalk, since I have switched to Node.js 14 as it's back-end from PHP 7. To be precise HHVM is 7x faster than PHP while Node.js is more than 5x faster than HHVM. This makes TSJTalk 11 more than 35x faster than TSJTalk 10 !<br><br><b class="font-U">Project TSJ (c) Debarchito Nath, <year></year> | ALL RIGHTS RESERVED</b></p></div><script>var year = new Date(); year = year.getFullYear(); document.querySelector("year").innerHTML = year</script><br>
+<div class='tsj-container mes-container'>
+<span id='username' class='w3-leftbar select-off'><username>U2FsdGVkX1/LEUlu6KGdXj/1LHBfS28VmDwr+059YUQ=</username></span>
+<br><br>
+<div id='message' class='font-U'><message>U2FsdGVkX19Wf3DrO2AvCwQD2u5WErZcEWFwgM34DHOYv47SGM9StChjFC5eAvXC6+ghm1IpFWlT4+UZLWfe8z3rXB24jKKsRtGQvf7hPHYLjHM/NL8V+XUFvkBk5ia6ivsMCihokgOqJ4QwLwKFbg==</message></div>
+<br><br>
+<span id='date' class='float-L font-U select-off'><date>U2FsdGVkX19iNZwe+9dtRRDu9DoDZTQAlJFXhT3fyJA=</date></span>
+<span id='time' class='float-R font-U select-off'><time>U2FsdGVkX1/WdvKfgbwlWF+KL0JJ9tlJonJvyDtL3MQ=</time></span>
+<br>
+</div>

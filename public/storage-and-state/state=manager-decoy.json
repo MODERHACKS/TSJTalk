@@ -1,0 +1,14 @@
+{
+  name: "TSJTalk 11",
+  state: "Night",
+  frame: {
+    uS: "R:",
+    tM: "td@",
+    dT: "td*",
+    mS: "&m",
+    decoy: {
+      frameStart: "{",
+      frameStop: "}"
+    }
+  }
+}
